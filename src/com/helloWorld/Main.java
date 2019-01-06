@@ -9,6 +9,5 @@ public class Main {
          * e converta para graus Fahrenheit
          */
         FahrenheitConversor fahrenheitConversor = new FahrenheitConversor();
-        fahrenheitConversor.grausToFahrenheit(27);
     }
 }
